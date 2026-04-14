@@ -69,7 +69,7 @@ export default function CO2BenchmarkCalculator() {
   const sectionLabel = { fontSize: 11, fontWeight: 500, color: "#888", textTransform: "uppercase", letterSpacing: "0.06em", margin: "0 0 10px" };
 
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", maxWidth: 720, margin: "0 auto", padding: "2rem 1rem", background: "#fff", color: "#1a1a1a", borderRadius: 12 }}>
+    <div style={{ fontFamily: "system-ui, sans-serif", maxWidth: 720, margin: "0 auto", padding: "2rem 1rem", background: "#1c3b2a", color: "#ffffff", borderRadius: 12 }}>
 
       {/* Header */}
       <div style={{ marginBottom: "1.5rem" }}>
