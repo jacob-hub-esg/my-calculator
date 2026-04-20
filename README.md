@@ -82,5 +82,5 @@ This tool was built as part of a personal project exploring carbon accounting me
 
 ## Author
 
-**[Your Name]**  
-[Your LinkedIn] · [Your Email]
+**Joatham Jacob**  
+linkedin.com/in/joatham-jacob · joathamjacob@gmail.com
