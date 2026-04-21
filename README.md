@@ -3,7 +3,7 @@
 
 A interactive web tool for estimating and benchmarking CO₂ emissions from commercial buildings, built using React and grounded in the GHG Protocol Corporate Standard.
 
-🔗 **Live demo:** [jacob-hub-esg.github.io/my-calculator](https://jacob-hub-esg.github.io/my-esg-calculator)
+🔗 **Live demo:** [jacob-hub-esg.github.io/my-calculator](https://jacob-hub-esg.github.io/my-calculator/)
 
 ---
 
